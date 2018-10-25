@@ -5,3 +5,4 @@ features:
 - Image upload for profile (profile pic)
 - Message Notification
 - Custom Email Authentication
+- Social Authentication (Login using fb/twitter/google)
