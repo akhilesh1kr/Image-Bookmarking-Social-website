@@ -13,3 +13,4 @@ features:
 - Like-Unlike feature for every Image using AJAX
 - Displaying all User's profile pic who likes the Image
 - Displaying list of all images using AJAX and Django's Paginator
+- Follow existing Users
