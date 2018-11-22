@@ -15,3 +15,6 @@ features:
 - Displaying list of all images using AJAX and Django's Paginator
 - Follow existing Users
 - Displaying User Actions (News Feed)
+    (generic activity stream using select_related() and prefetch_related())
+- Displaying images by popularity (likes count)
+    (using 'm2mchanged' signal for denormalizing counts)
